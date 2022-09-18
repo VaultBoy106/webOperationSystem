@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\back_end\\Base",
+    "\\front_end\\.angular",
+    "\\front_end\\src",
+    "\\front_end\\src\\app",
+    "\\front_end\\src\\app\\Components",
+    "\\front_end\\src\\app\\Components\\login",
+    "\\front_end\\src\\app\\Guards",
+    "\\front_end\\src\\app\\Services",
+    "\\front_end\\src\\environments"
+  ],
+  "SelectedNode": "\\front_end",
+  "PreviewInSolutionExplorer": false
+}
